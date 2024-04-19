@@ -1,9 +1,3 @@
-//
-//  SeeFoodApp.swift
-//  SeeFood
-//
-//  Created by khushi mittal on 16/04/24.
-//
 
 import SwiftUI
 
@@ -11,7 +5,7 @@ import SwiftUI
 struct SeeFoodApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+          HomeView()
         }
     }
 }
